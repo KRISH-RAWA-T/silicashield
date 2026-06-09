@@ -1,0 +1,5 @@
+[
+  { "zone_id": "A1", "drills_on": 1, "saws_on": 1 },
+  { "zone_id": "B2", "drills_on": 1, "saws_on": 0 },
+  { "zone_id": "C3", "drills_on": 0, "saws_on": 0 }
+]

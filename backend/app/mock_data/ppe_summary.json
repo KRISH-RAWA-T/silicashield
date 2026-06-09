@@ -1,0 +1,5 @@
+[
+  { "zone_id": "A1", "ppe_compliance": 0.35 },
+  { "zone_id": "B2", "ppe_compliance": 0.8 },
+  { "zone_id": "C3", "ppe_compliance": 0.95 }
+]

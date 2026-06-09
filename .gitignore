@@ -1,0 +1,15 @@
+# React Native / Expo
+mobile-app/node_modules/
+mobile-app/.expo/
+mobile-app/dist/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

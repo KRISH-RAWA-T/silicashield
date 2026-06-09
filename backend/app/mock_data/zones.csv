@@ -1,0 +1,4 @@
+zone_id,zone_name,fan_on,airflow_level
+A1,Drilling Tunnel 1,0,0.2
+B2,Cutting Shed,1,0.6
+C3,Storage Bay,1,0.9

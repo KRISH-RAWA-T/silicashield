@@ -1,0 +1,6 @@
+worker_id,worker_name,zone_id,time_in_zone_minutes
+W1,Ram Lal,A1,150
+W2,Mohit,B2,45
+W3,Sunita,C3,20
+W4,Imran,A1,90
+W5,Kavita,B2,70
